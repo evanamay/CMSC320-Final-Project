@@ -3,14 +3,13 @@
   <h1>CMSC320 Final Project</h1>
   Valentyn Bolotin, Jacob Barats, Evan May
   
-  <h4>Introduction</h4>
+  <h3>Introduction</h3>
   
   
   
   
 </div>
 
-#### Introduction
 
 ### Data collection/curation + parsing and Data management
 1. What imports did we use
