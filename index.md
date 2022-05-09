@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# CMSC320 Final Project
+##### Valentyn Bolotin, Jacob Barats, Evan May
 
 You can use the [editor on GitHub](https://github.com/evanamay/CMSC320-Final-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
