@@ -1,8 +1,10 @@
 # CMSC320 Final Project
-##### Valentyn Bolotin, Jacob Barats, Evan May
+<div align="center">
+Valentyn Bolotin, Jacob Barats, Evan May
+</div>
 
-### Introduction
-Info goes here
+#### Introduction
+
 ### Data collection/curation + parsing and Data management
 1. What imports did we use
 2. Code used to import the data
