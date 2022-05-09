@@ -1,9 +1,12 @@
 # CMSC320 Final Project
 ##### Valentyn Bolotin, Jacob Barats, Evan May
 
-You can use the [editor on GitHub](https://github.com/evanamay/CMSC320-Final-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Data collection/curation + parsing
+### Data management/representation
+### Exploratory data analysis
+### Hypothesis testing
+### Communication of insights attained
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
