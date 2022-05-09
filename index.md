@@ -2,13 +2,18 @@
 ##### Valentyn Bolotin, Jacob Barats, Evan May
 
 ### Data collection/curation + parsing
+Info goes here
 ### Data management/representation
+Info goes here
 ### Exploratory data analysis
+Info goes here
 ### Hypothesis testing
+Info goes here
 ### Communication of insights attained
+Info goes here
 
 
-### Markdown
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -38,4 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
