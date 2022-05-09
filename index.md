@@ -13,22 +13,29 @@
     <li>Code used to import the data</li>
     <li>Explanations of what the columns mean (the important columns that we will use)</li>
     <li>Did we need to parse the data at all?</li>
+    <li>Show how we checked if there were any missing values and how we handled them</li>
+    <li>Did we need to tidy the data/remove unnessesary data</li>
   </ol>
-  5. Show how we checked if there were any missing values and how we handled them
-  6. Did we need to tidy the data/remove unnessesary data
   <h3>Exploratory data analysis</h3>
-  1. How did we want to display the data
-  2. Code of displaying data
-  3. Graphs/Charts of displayed data
+  <ol>
+    <li>How did we want to display the data</li>
+    <li>Code of displaying data</li>
+    <li>Graphs/Charts of displayed data</li>
+  </ol>
   (THERE WILL BE MULTIPLE OF THESE GROUP OF THREE SECTIONS)
   <h3>Hypothesis testing</h3>
-  1. Conduct hypothesis testing
-  2. Show results in multiple formats (graphs, data, etc)
+  <ol>
+    <li>Conduct hypothesis testing</li>
+    <li>Code of displaying data</li>
+    <li>Show results in multiple formats (graphs, data, etc)</li>
+  </ol>
   (THERE WILL BE MULTIPLE OF THESE GROUP OF TWO SECTIONS)
   <h3>Communication of insights attained</h3>
-  1. Descirbe what this data means (give multiple interpretations)
-  2. Give reasoning as to why the results were like this (any error that could have influenced results?)
-  3. Conclusion
+  <ol>
+    <li>Descirbe what this data means (give multiple interpretations)</li>
+    <li>Give reasoning as to why the results were like this (any error that could have influenced results?)</li>
+    <li>Conclusion</li>
+  </ol>
 </div>
 
 
