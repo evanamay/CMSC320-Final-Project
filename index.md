@@ -8,10 +8,12 @@
   
 
   <h3>Data collection/curation + parsing and Data management</h3>
-  1. What imports did we use
-  2. Code used to import the data
-  3. Explanations of what the columns mean (the important columns that we will use)
-  4. Did we need to parse the data at all?
+  <ol>
+    <li>What imports did we use</li>
+    <li>Code used to import the data</li>
+    <li>Explanations of what the columns mean (the important columns that we will use)</li>
+    <li>Did we need to parse the data at all?</li>
+  </ol>
   5. Show how we checked if there were any missing values and how we handled them
   6. Did we need to tidy the data/remove unnessesary data
   <h3>Exploratory data analysis</h3>
