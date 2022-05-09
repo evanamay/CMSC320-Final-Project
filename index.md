@@ -4,33 +4,31 @@
   Valentyn Bolotin, Jacob Barats, Evan May
   
   <h3>Introduction</h3>
+  Information goes here
   
-  
-  
-  
+
+  <h3>Data collection/curation + parsing and Data management</h3>
+  1. What imports did we use
+  2. Code used to import the data
+  3. Explanations of what the columns mean (the important columns that we will use)
+  4. Did we need to parse the data at all?
+  5. Show how we checked if there were any missing values and how we handled them
+  6. Did we need to tidy the data/remove unnessesary data
+  <h3>Exploratory data analysis</h3>
+  1. How did we want to display the data
+  2. Code of displaying data
+  3. Graphs/Charts of displayed data
+  (THERE WILL BE MULTIPLE OF THESE GROUP OF THREE SECTIONS)
+  <h3>Hypothesis testing</h3>
+  1. Conduct hypothesis testing
+  2. Show results in multiple formats (graphs, data, etc)
+  (THERE WILL BE MULTIPLE OF THESE GROUP OF TWO SECTIONS)
+  <h3>Communication of insights attained</h3>
+  1. Descirbe what this data means (give multiple interpretations)
+  2. Give reasoning as to why the results were like this (any error that could have influenced results?)
+  3. Conclusion
 </div>
 
-
-### Data collection/curation + parsing and Data management
-1. What imports did we use
-2. Code used to import the data
-3. Explanations of what the columns mean (the important columns that we will use)
-4. Did we need to parse the data at all?
-5. Show how we checked if there were any missing values and how we handled them
-6. Did we need to tidy the data/remove unnessesary data
-### Exploratory data analysis
-1. How did we want to display the data
-2. Code of displaying data
-3. Graphs/Charts of displayed data
-(THERE WILL BE MULTIPLE OF THESE GROUP OF THREE SECTIONS)
-### Hypothesis testing
-1. Conduct hypothesis testing
-2. Show results in multiple formats (graphs, data, etc)
-(THERE WILL BE MULTIPLE OF THESE GROUP OF TWO SECTIONS)
-### Communication of insights attained
-1. Descirbe what this data means (give multiple interpretations)
-2. Give reasoning as to why the results were like this (any error that could have influenced results?)
-3. Conclusion
 
 
 <!-- ### Markdown
