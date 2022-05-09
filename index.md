@@ -1,4 +1,5 @@
 # CMSC320 Final Project
+<center> <h1>heading 1</h1> </center>
 <div align="center">
 Valentyn Bolotin, Jacob Barats, Evan May
 </div>
