@@ -1,6 +1,8 @@
 # CMSC320 Final Project
 ##### Valentyn Bolotin, Jacob Barats, Evan May
 
+### Introduction
+Info goes here
 ### Data collection/curation + parsing
 Info goes here
 ### Data management/representation
