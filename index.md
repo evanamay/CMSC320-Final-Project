@@ -3,16 +3,26 @@
 
 ### Introduction
 Info goes here
-### Data collection/curation + parsing
-Info goes here
-### Data management/representation
-Info goes here
+### Data collection/curation + parsing and Data management
+1. What imports did we use
+2. Code used to import the data
+3. Explanations of what the columns mean (the important columns that we will use)
+4. Did we need to parse the data at all?
+5. Show how we checked if there were any missing values and how we handled them
+6. Did we need to tidy the data/remove unnessesary data
 ### Exploratory data analysis
-Info goes here
+1. How did we want to display the data
+2. Code of displaying data
+3. Graphs/Charts of displayed data
+(THERE WILL BE MULTIPLE OF THESE GROUP OF THREE SECTIONS)
 ### Hypothesis testing
-Info goes here
+1. Conduct hypothesis testing
+2. Show results in multiple formats (graphs, data, etc)
+(THERE WILL BE MULTIPLE OF THESE GROUP OF TWO SECTIONS)
 ### Communication of insights attained
-Info goes here
+1. Descirbe what this data means (give multiple interpretations)
+2. Give reasoning as to why the results were like this (any error that could have influenced results?)
+3. Conclusion
 
 
 <!-- ### Markdown
